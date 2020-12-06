@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\users\rj\cs361\lab3_bfsmcm\project1\amatrix_bfsearch.h(56): warning C4018: '<': signed/unsigned mismatch
+d:\users\rj\cs361\lab3_bfsmcm\project1\amatrix_bfsearch.h(104): warning C4018: '<': signed/unsigned mismatch
+  Project1.vcxproj -> D:\Users\RJ\CS361\Lab3_BFSMCM\Project1\Debug\Project1.exe

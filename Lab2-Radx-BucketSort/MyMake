@@ -1,0 +1,12 @@
+all:
+
+	#make a directory to hold the build product	
+	mkdir -p linux
+
+	#build MyProgram to that directory
+	g++ -g -std=c++11 -o linux/buckRadSort.exe main.cpp bucketSort.h radixSort.h flgIsSorted.h readFileToArray.h topTenElements.h
+
+clean:
+
+	#remove the linux directory
+	rm -rf linux
